@@ -1,0 +1,4 @@
+.thing.done {
+  text-decoration: line-through;
+  cursor: pointer;
+}
